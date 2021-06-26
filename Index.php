@@ -5,6 +5,6 @@
 </head>
 <body>
 	<h3>Hola Mundo</h3>
-	<?php echo "Hola" ?>
+	<?php ech "Hola" ?>
 </body>
 </html>
