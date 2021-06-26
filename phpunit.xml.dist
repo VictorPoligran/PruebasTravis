@@ -4,6 +4,7 @@
     <testsuites>
         <testsuite name="Example">
             <file>Index.php</file>
+            <file>Pruebas.php</file>
         </testsuite>
     </testsuites>
 </phpunit>
