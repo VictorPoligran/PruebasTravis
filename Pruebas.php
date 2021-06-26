@@ -1,5 +1,5 @@
 <?php
 
-$tipo = "1"
+$tipo = "1";
 
 var_dump($tipo);
