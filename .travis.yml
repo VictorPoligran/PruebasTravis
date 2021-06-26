@@ -17,3 +17,6 @@ script:
 
 after_success:
     - bash <(curl -s https://codecov.io/bash)
+
+notifications:
+    email: virodriguez37@poligran.edu.co
